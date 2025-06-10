@@ -221,5 +221,6 @@ $RECYCLE.BIN/
 # others
 *.pt
 *.csv
+recaptcha-dataset/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,windows,visualstudiocode
