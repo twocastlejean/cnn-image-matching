@@ -219,7 +219,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # others
-*.pt
 *.csv
 recaptcha-dataset/
 testset/
